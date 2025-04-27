@@ -72,5 +72,11 @@
 }
 
 .footer {
-    background-color: ;
+    background-color: #263238;
+    color: white;
+}
+
+.footer li:hover {
+    text-decoration: underline;
+    cursor: pointer;
 }
